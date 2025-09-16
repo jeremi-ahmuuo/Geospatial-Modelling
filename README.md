@@ -1,8 +1,1 @@
-# Geospatial-Modelling
-
-## Description of the project
-
-## Objectives
-
-
-## Findings
+This folder contains all the geospatial modelling/analysis projects that I have done
